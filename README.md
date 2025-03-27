@@ -17,7 +17,7 @@ This project implements an interactive image segmentation tool using OpenCV's Gr
 ## Demo Images
 
 ### Segmenting a Red Apple
-![Demo 1 - Apple Segmentation](https://raw.githubusercontent.com/bemoregt/OF_GrabCut_Masking/main/demo_images/demo1.jpg)
+![Demo 1 - Apple Segmentation](https://raw.githubusercontent.com/bemoregt/OF_GrabCut_Masking/main/demo_images/%20demo1.png)
 
 ### Segmenting a Spray Bottle
 ![Demo 2 - Spray Bottle Segmentation](https://raw.githubusercontent.com/bemoregt/OF_GrabCut_Masking/main/demo_images/demo2.jpg)
