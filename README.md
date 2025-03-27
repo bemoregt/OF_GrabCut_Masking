@@ -6,19 +6,6 @@ OpenFrameworks implementation of GrabCut algorithm for interactive image segment
 
 This project implements an interactive image segmentation tool using OpenCV's GrabCut algorithm in OpenFrameworks. Users can draw a bounding box around an object, and the algorithm will automatically separate the foreground from the background.
 
-## Demo Images
-
-Here are some examples of the application in use:
-
-### Selection of a red apple:
-![Demo Image 1](demo_images/demo1.jpg)
-
-### Selection of a spray nozzle:
-![Demo Image 2](demo_images/demo2.jpg)
-
-### Selection of a yellow pear:
-![Demo Image 3](demo_images/demo3.jpg)
-
 ## Features
 
 - Interactive bounding box selection
@@ -26,6 +13,17 @@ Here are some examples of the application in use:
 - Semi-transparent overlay of segmented area
 - Drag and drop image loading
 - Automatic saving of segmentation masks
+
+## Demo Images
+
+### Segmenting a Red Apple
+![Demo 1 - Apple Segmentation](https://github.com/bemoregt/OF_GrabCut_Masking/raw/main/images/demo1.png)
+
+### Segmenting a Spray Bottle
+![Demo 2 - Spray Bottle Segmentation](https://github.com/bemoregt/OF_GrabCut_Masking/raw/main/images/demo2.png)
+
+### Segmenting a Pear
+![Demo 3 - Pear Segmentation](https://github.com/bemoregt/OF_GrabCut_Masking/raw/main/images/demo3.png)
 
 ## Dependencies
 
