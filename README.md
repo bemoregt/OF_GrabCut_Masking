@@ -17,13 +17,7 @@ This project implements an interactive image segmentation tool using OpenCV's Gr
 ## Demo Images
 
 ### Segmenting a Red Apple
-![Demo 1 - Apple Segmentation](https://user-images.githubusercontent.com/19407972/349323615-88e66f69-e1d3-46d9-8e5e-a30ed80ac0dd.png)
-
-### Segmenting a Spray Bottle
-![Demo 2 - Spray Bottle Segmentation](https://user-images.githubusercontent.com/19407972/349323627-d4c320a2-2e5d-4f06-82ff-ad764e9ab8e7.png)
-
-### Segmenting a Pear
-![Demo 3 - Pear Segmentation](https://user-images.githubusercontent.com/19407972/349323636-5dd76b3a-1b59-41a3-afc2-7a6d4e4a0a0d.png)
+![Demo 1 - Apple Segmentation](https://user-images.githubusercontent.com/19407972/demo1.png)
 
 ## Dependencies
 
